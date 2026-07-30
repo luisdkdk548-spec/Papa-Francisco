@@ -1,1 +1,1 @@
-!alert("se você está vendo pelo celular,vire a tela para obter melhor expêriência")
+alert("Se estiver vendo isso pelo celular,por favor vive a tela para obter uma melhor experiência")
