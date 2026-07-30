@@ -1,0 +1,1 @@
+!alert("se você está vendo pelo celular,vire a tela para obter melhor expêriência")
