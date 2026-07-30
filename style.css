@@ -1,0 +1,43 @@
+
+
+body{
+    background-color:white
+}
+.img-topo{
+    width:400px;
+    display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+.img-topa{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.img-topi{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}  
+
+h1{
+    text-align: center;
+     font-weight: 300;
+}
+.img-topu{
+     width: 600px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.img-tope{
+    width: 600px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+p{
+    font-size: 17px;
+    padding: 0 20px;
+    line-height: 1.6;
+}
